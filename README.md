@@ -10,17 +10,22 @@ An OSS project inspired by these innovative but currently invite-only products:
 https://github.com/user-attachments/assets/a9c1f9b6-f935-4476-b929-0751a0638c4a
 
 ## Core Functionality
-- Interactive Spreadsheet
-  - Edit any cell directly
-  - Sources are automatically requested for non-index cells
-  - Add and rearrange columns as needed
+- Edit any cell directly
+- Sources are automatically requested for non-index cells
+- Add and rearrange columns as needed
 
 ## AI Capabilities 
 - Smart Column Suggestions
-  - Get AI-powered column recommendations based on your data
-- Automated Data Population
-  - Auto-generate index column entries
-  - AI-assisted cell content generation
+
+https://github.com/user-attachments/assets/a7ad82e9-d223-4c65-94f7-9d4dece2042f
+
+- Auto-generate index column entries
+
+https://github.com/user-attachments/assets/b399c391-3434-4f50-a140-3bcedce8694f
+
+- AI-assisted cell content generation
+
+https://github.com/user-attachments/assets/bd0af606-5e0e-46c3-82d6-d9dce5322be8
 
 ## Getting Started
 
