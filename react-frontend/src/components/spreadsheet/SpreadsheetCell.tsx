@@ -37,7 +37,7 @@ export function SpreadsheetCell({
   return (
     <td
       className={`p-3 border-b border-gray-200 transition-colors h-auto ${
-        isSelected ? 'bg-gray-100' : ''
+        isSelected ? 'bg-gray-300' : ''
       }`}
       style={{ width, maxWidth: width }}
       onClick={onClick}
